@@ -1,0 +1,156 @@
+{
+  "name": "Twitchcord",
+  "description": "twitch ehe",
+  "authors": [
+    {
+      "name": "WXR",
+      "id": "574638293312995339"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#503F38",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#c8c8c8",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#b1b1b1",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#503F38",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#503F38",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#503F38",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0a090e",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0a090e",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#503F38",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0a090e",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0a090e",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#503F38",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#503F38",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c8c8c8",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#503F38",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#0a090e",
+      "#FFFFFF"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0a090e",
+      "#ffffff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY": "#747474",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#C8C8C8",
+    "PRIMARY_400": "#503F38",
+    "PRIMARY_500": "#503F38",
+    "PRIMARY_600": "#3D2B1F",
+    "PRIMARY_630": "#3D2B1F",
+    "PRIMARY_700": "#3D2B1F",
+    "PRIMARY_800": "#151515",
+    "BRAND_260": "#503F38",
+    "BRAND_500": "#503F38",
+    "BRAND_900": "#503F38",
+    "RED_500": "#503F38",
+    "GREEN_600": "#503F38",
+    "YELLOW_300": "#503F38"
+  },
+  "spec": 2
+}
