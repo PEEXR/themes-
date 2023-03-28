@@ -1,6 +1,6 @@
 {
-  "name": "Twitchcord",
-  "description": "twitch ehe",
+  "name": "koffee",
+  "description": "I LOVE CAFFEINE I LOVE CAFFEINE I LOVE CAFFEINE I LOVE CAFFEINE ",
   "authors": [
     {
       "name": "WXR",
@@ -10,7 +10,7 @@
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#503F38",
-      "#060607"
+      "#3D2B1F"
     ],
     "HEADER_SECONDARY": [
       "#c8c8c8",
@@ -34,26 +34,26 @@
     ],
     "INTERACTIVE_ACTIVE": [
       "#503F38",
-      "#060607"
+      "#3D2B1F"
     ],
     "INTERACTIVE_MUTED": [
       "#503F38",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0a090e",
+      "#3D2B1F",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0a090e",
+      "#3D2B1F",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
+      "#3D2B1F",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000",
+      "#3D2B1F",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
@@ -61,19 +61,19 @@
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000",
+      "#3D2B1F",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
+      "#3D2B1F",
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0a090e",
+      "#3D2B1F",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#0a090e",
+      "#3D2B1F",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -113,7 +113,7 @@
       "#f2f2f2"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
+      "#3D2B1F",
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
@@ -122,14 +122,14 @@
     ],
     "TEXT_LINK": [
       "#503F38",
-      "#000000"
+      "#3D2B1F"
     ],
     "KEYBOARD": [
-      "#0a090e",
+      "#3D2B1F",
       "#FFFFFF"
     ],
     "CHAT_BACKGROUND": [
-      "#0a090e",
+      "#3D2B1F",
       "#ffffff"
     ]
   },
